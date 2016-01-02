@@ -1,0 +1,6 @@
+.classpath
+.vagrant
+.settings
+.metadata
+target/*
+
