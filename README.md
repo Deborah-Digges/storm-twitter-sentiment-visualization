@@ -1,4 +1,5 @@
-# storm-twitter-sentiment-visualization
+# storm-twitter-sentiment-visualization [![Code Health](https://landscape.io/github/Deborah-Digges/storm-twitter-sentiment-visualization/master/landscape.svg?style=flat)](https://landscape.io/github/Deborah-Digges/storm-twitter-sentiment-visualization/master)
+
 A visualization of real time twitter sentiment powered by storm and d3
 
 ## Steps to Run
